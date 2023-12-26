@@ -1,0 +1,26 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+p{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+div{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.box{
+  background-color:white;
+  padding: 20px;
+  width: 700px;
+  height: 800px;
+  text-align: center;
+  border: black solid 2px;
+}
